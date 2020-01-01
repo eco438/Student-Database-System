@@ -1,0 +1,1 @@
+Just a project that i made to practice c++. It is a student Database system
